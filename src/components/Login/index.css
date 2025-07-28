@@ -27,9 +27,10 @@ body {
 .logo {
   font-family: 'Billabong', cursive;
   font-size: 2.5rem;
-  margin-bottom: 33px;
+  margin-bottom: 42px;
   color: #fafafa;
   margin-left: 32px;
+  margin-top: -10px;
 }
 
 .login-form input {
@@ -51,8 +52,8 @@ body {
 .login-form button {
   width: 100%;
   height: 36px;
-  padding: 10px;
-  background-color: #0095f6;
+  padding: 2px;
+  background-color: rgb(74, 93, 249);
   color: white;
   font-weight: bold;
   border: none;
@@ -61,6 +62,7 @@ body {
   cursor: pointer;
   margin-left: -10px;
   font-size: small;
+  
 
 }
 
@@ -111,7 +113,13 @@ body {
 }
 
 .login-image {
-  margin-left: -600px;
+  margin-left: -530px;
   height: 450px;
-  margin-top: -70px;
+  margin-top: -40px;
+}
+
+.error-message {
+  color: #ff1111;
+  font-size: small;
+  margin-top: 10px;
 }
