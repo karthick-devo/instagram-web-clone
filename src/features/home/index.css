@@ -1,0 +1,105 @@
+.Home{
+    margin-left: 18rem;
+}
+
+
+.image1 {
+    border-radius: 50%;
+    border: 2px solid rgb(255, 35, 123);
+    border-color: rgb(255, 35, 123);
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.image2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 160px;
+    overflow: hidden;
+    display: flex;
+    border: 1px solid red;
+}
+
+.text1 {
+    margin-left: 8px;
+    margin-top: 1px;
+    color: white;
+    /* border: 1px solid red; */
+}
+
+.text0 {
+    margin-left: 110px;
+    color: white;
+}
+
+.dotted {
+    color: rgb(255, 255, 255);
+    margin-left: 240px;
+    /* border: 1px solid red; */
+}
+
+.content1 {
+    width: 28rem;
+    height: 32rem;
+    /* border: 1px solid black;  */
+    margin-top: 10px;
+    overflow: hidden;
+    border-radius: 5px; 
+}
+
+.feed {
+    /* border-bottom: 1px solid grey; */
+    width: 28rem;
+    height: 42rem;
+    
+  
+    
+}
+
+.feedicon {
+    color: white;
+    font-size: larger;
+
+}
+
+.feedicons {
+    width: 100px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.likes {
+    color: white;
+    margin-top: -10px;
+
+}
+
+.commentscolor {
+    color: grey;
+    margin-top: -15px;
+
+}
+.feed{
+    /* border: 1px solid white; */
+    margin-left: 10rem;
+}
+.header{
+    /* border: 1px solid white; */
+    margin-top: 10px;
+}
+.location{
+    color: white;
+    /* border: 1px solid white; */
+    margin-left: 220px;
+    margin-top: -28px;
+}
+
+.colorRed {
+    color: red;
+}

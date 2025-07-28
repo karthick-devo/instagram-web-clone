@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "image": "https://source.unsplash.com/random/300x300?sig=1",
+      "caption": "Loving the vibes!"
+    },
+    {
+      "id": 2,
+      "username": "jane_doe",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "image": "https://source.unsplash.com/random/300x300?sig=2",
+      "caption": "Sunset moments 🌅"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+[
+    {
+        "post_id": "p123456789",
+        "user": {
+            "user_id": "u123",
+            "username": "cristiano",
+            "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLvppVvfXH5YWFHbCev-3aKYIY0OAP4NWmw&s"
+        },
+        "media": [
+            {
+                "type": "image",
+                "url": "https://pbs.twimg.com/media/Gs9RQzfXsAAWQOm?format=jpg&name=large",
+                "width": 448,
+                "height": 512
+            }
+        ],
+        "caption": "Chasing sunsets at the beach 🌅 #TravelGoals #SunsetVibes",
+        "timestamp": "2025-06-20T15:30:00Z",
+        "likes": 6262296,
+        "comments": [
+            {
+                "comment_id": "c987",
+                "user": {
+                    "user_id": "u456",
+                    "username": "beachlover22"
+                },
+                "text": "Stunning view! Where is this?",
+                "timestamp": "2025-06-20T16:00:00Z"
+            },
+            {
+                "comment_id": "c988",
+                "user": {
+                    "user_id": "u789",
+                    "username": "sunsetchaser"
+                },
+                "text": "Love the colors! 😍",
+                "timestamp": "2025-06-20T16:15:00Z"
+            }
+        ],
+        "location": {
+            "name": "Karthick Court ",
+            "coordinates": {
+                "latitude": 34.0259,
+                "longitude": -118.7798
+            }
+        },
+        "hashtags": [
+            "#TravelGoals",
+            "#SunsetVibes"
+        ]
+    },
+    {
+        "post_id": "p987654321",
+        "user": {
+            "user_id": "u456",
+            "username": "foodieheaven",
+            "profile_picture": "https://admin.sportshackster.com/WallPaperMedia/PlayerImage/messi-1_63841820218301.jpg"
+        },
+        "media": [
+            {
+                "type": "video",
+                "url": "https://admin.sportshackster.com/WallPaperMedia/PlayerImage/messi-1_63841820218301.jpg",
+                "width": 448,
+                "height": 1280,
+                "thumbnail": "https://admin.sportshackster.com/WallPaperMedia/PlayerImage/messi-1_63841820218301.jpg"
+            }
+        ],
+        "caption": "Homemade pasta night! 🍝 #Foodie #ItalianCuisine",
+        "timestamp": "2025-06-19T19:45:00Z",
+        "likes": 890654,
+        "comments": [
+            {
+                "comment_id": "c654",
+                "user": {
+                    "user_id": "u123",
+                    "username": "travelwithjane"
+                },
+                "text": "Looks delicious! Recipe please?",
+                "timestamp": "2025-06-19T20:10:00Z"
+            }
+        ],
+        "location": null,
+        "hashtags": [
+            "#Foodie",
+            "#ItalianCuisine"
+        ]
+    },
+    {
+        "post_id": "p1122334455",
+        "user": {
+            "user_id": "u789",
+            "username": "ishowspeed",
+            "profile_picture": "https://admin.sportshackster.com/WallPaperMedia/PlayerImage/messi-1_63841820218301.jpg"
+        },
+        "media": [
+            {
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg",
+                "width": 448,
+                "height": 512
+            },
+            {
+                "type": "image",
+                "url": "https://admin.sportshackster.com/WallPaperMedia/PlayerImage/messi-1_63841820218301.jpg",
+                "width": 1080,
+                "height": 1080
+            }
+        ],
+        "caption": "Latest artwork reveal! 🎨 #ArtLife #Painting",
+        "timestamp": "2025-06-18T10:20:00Z",
+        "likes": 32000,
+        "comments": [],
+        "location": {
+            "name": "New York",
+            "coordinates": {
+                "latitude": 40.7128,
+                "longitude": -74.0060
+            }
+        },
+        "hashtags": [
+            "#ArtLife",
+            "#Painting"
+        ]
+    }
+]
