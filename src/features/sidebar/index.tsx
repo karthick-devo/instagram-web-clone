@@ -18,9 +18,9 @@ const Sidebar: React.FC = () => {
             {SidebarContent.map((item) => (<SidebarItem key={item.id} icon={item.icon} label={item.label} />))}
 
 
-            <div>
-                <span className=' d-flex'><i className="bi bi-three-dots"></i><p>More</p></span>
-                <span className=' d-flex'><i className="bi bi-boxes"></i><p>Also from Meta</p></span>
+            <div className='more'>
+                <span className=' d-flex'><i className="bis bi-three-dots"></i><p>More</p></span>
+                <span className=' d-flex'><i className="bis bi-boxes"></i><p>Also from Meta</p></span>
 
             </div>
         </div>
